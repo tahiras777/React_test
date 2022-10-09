@@ -1,0 +1,21 @@
+.main-wrapper {
+  min-height: calc(80vh - 170px);
+  background-color: #ffffff;
+}
+.banner-content {
+ 
+  flex-direction: column;
+  justify-content: center;
+}
+.banner-content .descrption p {
+  color: #9A9AB0;
+  font-size: 12px;
+
+}
+.banner-button .btn{
+  background-color: #F86338;
+  max-width: 120px;
+  padding: 8px;
+  color: white;
+
+}

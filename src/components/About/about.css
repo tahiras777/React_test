@@ -1,0 +1,41 @@
+.main-wrapper-about{
+  min-height: 80vh;
+  background-color: #f4f7f8;
+}
+.row {
+  display: flex;
+  justify-content: space-around;
+}
+.about-content {
+ 
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+}
+.about-content .title h1 {
+  color: #11142D;
+}
+.about-content .descrption p {
+  color: #9A9AB0;
+  font-size: 12px;
+}
+.About-button .btn{
+  background-color: transparent;
+  max-width: 120px;
+  padding: 8px;
+  color: #F86338;
+  font-weight: bold;
+
+}
+
+ .About-image {
+  width: 100%;
+  max-width: 400px;
+  height: 60vh;
+  background-color: #e2e2ea;
+  border-radius: 4px;
+}
+.About-image:hover {
+  box-shadow: 5px  5px 8px #888888;
+}
