@@ -1,0 +1,36 @@
+
+.top-wrapper{
+  min-height: 30vh;
+  width: 100%;
+}
+.nav-link{
+  font-weight: bold;
+  font-size: medium;
+ color: #9A9AB0;
+}
+
+.arrow-icon{
+  border-radius: 50%;
+  padding: 8px;
+  background-color: #F86338;
+  color: white;
+}
+.collection-button{
+  text-align: center;
+    margin: 40px 0;
+}
+.collection-button .btn{
+  background-color: #F86338;
+  max-width: 120px;
+  padding: 8px;
+  color: white;
+  text-align: center;
+}
+.collection .cards .card{
+  background-color: #ffffff;
+  text-align: left;
+}
+.collection .cards .card .card-body{
+ text-align: left;
+
+}

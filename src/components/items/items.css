@@ -1,0 +1,76 @@
+.items-wrapper{
+  background-color: white;
+  padding: 50px 0;
+  text-align: center;
+}
+.items-wrapper .title h4 {
+  color: #11142D;
+}
+.items-wrapper .description p {
+  padding: 5px 30%;
+  color: #9A9AB0;
+}
+.items-wrapper .card{
+  background-color: #E2E2EA;
+  border: none;
+}
+.top-wrapper{
+  position: relative;
+}
+.top-wrapper span {
+  background-color: #F6F7FB;
+  color: #F86338;
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  font-weight: bold;
+  font-size: 15px;
+  padding: 2px 5px;
+  border-radius: 5px;
+}
+.card-body{
+  text-align: center;
+}
+
+.card-body h4{
+  color:#11142D ;
+}
+.card-body p{
+  font-size: 12px;
+  font-weight: bold;
+  color: #9A9AB0;
+}
+
+.card-body p span{
+  color:#F86338;
+}
+.card-image{
+  margin-top: 40px;
+  width: 70%;
+  height: 40vh;
+  max-width: 100%;
+  max-height: 100%;
+  
+}
+
+.top-wrapper img{
+  background-color: transparent;
+}
+
+.card-title{
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.row .alice-carousel .alice-carousel__prev-btn{
+  display: none;
+}
+.row .alice-carousel .alice-carousel__next-btn{
+  display: none;
+}
+@media screen and (min-width: 768px){
+  .card{
+    min-width: 300px;
+  }
+}

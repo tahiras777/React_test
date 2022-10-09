@@ -1,0 +1,27 @@
+.saller-wrapper .row{
+  background-color: #f4f7f8;
+
+}
+.saller-card {
+  width: 100%;
+  max-width: 250px;
+  height: 35vh;
+  background-color: #e2e2ea;
+  border-radius: 4px;
+}
+.saller-card:hover {
+  box-shadow: 5px  5px 8px #888888;
+}
+.saller-content h1 {
+  color: #F86338;
+}
+.saller-content h4 {
+  color: #11142D;
+}
+.saller-content p {
+  font-size: 12px;
+  color: #9A9AB0;
+}
+.saller-content p span {
+  font-weight: bold;
+}

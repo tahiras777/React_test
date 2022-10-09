@@ -1,0 +1,40 @@
+.newsletter-wrapper{
+  margin-bottom: 8rem;
+}
+.newsletter-wrapper .row{
+  background-color: #f4f7f8;
+
+}
+.newsletter-content h1 {
+  color: #11142D;
+}
+.newsletter-content p {
+  font-size: 12px;
+  color: #9A9AB0;
+}
+
+.newsicon-wrapper{
+  width: 100%;
+  position: relative;
+  background-color: #e2e2ea;
+  height: 3rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+.newsicon-wrapper span{
+  opacity: 0.5;
+  margin-left: 12px;
+}
+.newsicon-wrapper .icon-btn {
+  background-color: #F86338;
+  padding: 8px 10px;
+  margin-right: 12px;
+  border-radius: 5px;
+}
+.newsicon-wrapper .icon-btn .icon-fa {
+  color: #f4f7f8;
+}
+
+

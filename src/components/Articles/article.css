@@ -1,0 +1,38 @@
+.article-wrapper{
+  margin-top: 10rem;
+  margin-bottom: 10rem;
+}
+.article-content .title h1 {
+  color: #1A242D;
+}
+.article-content .article-btn{
+  position: relative;
+}
+.article-content .article-btn span {
+  position: absolute;
+  bottom:  0;
+  right: 0;
+  font-size: 12px;
+  font-weight: bold;
+  color: #F86338;
+}
+/* saller cards */
+ 
+.article-cards .card-article{
+  background-color: #ffffff;
+  text-align: left;
+}
+.article-cards .card-article .top-wrapper{
+  min-height: 60vh;
+  width: 100%;
+  background-color: #1A242D;
+}
+.article-cards .card-article .card-body{
+  text-align: left;
+ 
+ }
+ .article-cards .card-article .card-body .btn {
+  background-color: transparent;
+  font-weight: bold;
+  color: #F86338;
+ }
